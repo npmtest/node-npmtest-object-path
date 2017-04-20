@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [object-path (v0.11.4)](https://github.com/mariocasciaro/object-path) [![npm package](https://img.shields.io/npm/v/npmtest-object-path.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-object-path) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-object-path.svg)](https://travis-ci.org/npmtest/node-npmtest-object-path)",
+    "description": "#### basic test coverage for  [object-path (v0.11.4)](https://github.com/mariocasciaro/object-path)  [![npm package](https://img.shields.io/npm/v/npmtest-object-path.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-object-path) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-object-path.svg)](https://travis-ci.org/npmtest/node-npmtest-object-path)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "object-path": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "0.0.2"
 }

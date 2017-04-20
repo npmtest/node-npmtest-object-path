@@ -1,7 +1,10 @@
-# test coverage for  [object-path (v0.11.4)](https://github.com/mariocasciaro/object-path)  [![npm package](https://img.shields.io/npm/v/npmtest-object-path.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-object-path) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-object-path.svg)](https://travis-ci.org/npmtest/node-npmtest-object-path)
+# npmtest-object-path
+
+#### basic test coverage for  [object-path (v0.11.4)](https://github.com/mariocasciaro/object-path)  [![npm package](https://img.shields.io/npm/v/npmtest-object-path.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-object-path) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-object-path.svg)](https://travis-ci.org/npmtest/node-npmtest-object-path)
+
 #### Access deep object properties using a path
 
-[![NPM](https://nodei.co/npm/object-path.png?downloads=true)](https://www.npmjs.com/package/object-path)
+[![NPM](https://nodei.co/npm/object-path.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/object-path)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-object-path/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-object-path/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-object-path/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-object-path/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-object-path/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-object-path/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-object-path/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-object-path/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-object-path/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-object-path/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-object-path%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-object-path/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-object-path/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-object-path/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-object-path/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-object-path%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-object-path/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-object-path/build/test-report.html](https://npmtest.github.io/node-npmtest-object-path/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-object-path/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-object-path/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-object-path/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-object-path/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-object-path/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-object-path/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-object-path/build/screenCapture.npmPackageListing.svg)
 
@@ -72,13 +81,11 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "mariocasciaro",
-            "email": "mariocasciaro@gmail.com"
+            "name": "mariocasciaro"
         }
     ],
     "name": "object-path",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/mariocasciaro/object-path.git"
